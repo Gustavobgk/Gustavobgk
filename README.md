@@ -4,7 +4,7 @@
 
 Desenvolvedor em Curitiba, com experiência em aplicações web com PHP e objetivo de atuar como arquiteto de soluções em nuvem. Atualmente me preparando para a certificação **AWS Solutions Architect – Associate (SAA-C03)**.
 
-**Idiomas:** Português (nativo) · Inglês (B2)
+**Idiomas:** Português (nativo) · Inglês (C1)
 
 ---
 
